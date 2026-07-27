@@ -1,6 +1,6 @@
 # Image-Handling-and-Pixel-Transformations-Using-OpenCV 
-- ## Name:K.Lokesh Achari
-- ## Register Number:212225040208
+- ## Name:THARUN.V
+- ## Register Number:212224230290
 
 ## AIM:
 Write a Python program using OpenCV that performs the following tasks:
